@@ -1,0 +1,3 @@
+rootProject.name = 'wacu_2394'
+
+include ':app'
